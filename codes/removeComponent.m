@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	[edgeMatrix,nodesLabels] = removeComponent(edgeMatrix,nodesInput,nodeComponentID,componentID,componentSize)
 	
 	Returns the updated edge Matrix and the updated node IDs after the 

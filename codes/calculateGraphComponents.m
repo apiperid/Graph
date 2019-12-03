@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	[components,nodeComponentID] = calculateGraphComponents(edgeMatrix)
 	
 	Returns how many components exist in the graph ( components )

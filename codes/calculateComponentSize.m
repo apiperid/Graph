@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	componentSize = calculateComponentSize(components,nodeComponentID)
 	
 	Returns how many nodes each component of the graph has

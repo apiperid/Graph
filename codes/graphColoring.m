@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	nodes = graphColoring(edgeMatrix,nodeDegreeThreshold,nodeBetweennessThreshold,
                           nodeEigenvectorThreshold,nodeClosenessThreshold,MarkerSize,NodeColor)
 	

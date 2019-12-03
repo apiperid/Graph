@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	nodesCauseDisconnection = vertexConnecitivity(edgeMatrix)
 	
 	Returns the nodes as a vector which if we remove our graph

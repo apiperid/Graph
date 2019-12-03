@@ -1,11 +1,4 @@
 %{
-    BROADBAND NETWORKS 2018
-	ISP ROUTER TOPOLOGY
-	PIPERIDIS ANESTIS
-	AEM : 8689
-	SEMESTER : 9
-	apiperid@auth.gr
-	
 	[nodesLabels,edgeMatrix] = fromTextToEdgeMatrix(nodesLabelsTxt,edgeListCSV)
 	
 	Returns the edgeMatrix which shows the connections of the nodes
